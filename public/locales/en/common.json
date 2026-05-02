@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "machinery": "Machinery",
+    "about": "About",
+    "team": "Team"
+  },
+  "hero": {
+    "subtitle": "Elevating Your Brand's Excellence",
+    "title_plain": "Premium",
+    "title_gradient": "Digital Printing",
+    "title_suffix": "in Dhaka",
+    "desc": "We are a state-of-the-art digital printing studio offering fast, high-quality printing for businesses and creatives. Bring your ideas to life with perfect color and clarity.",
+    "cta1": "View Our Work",
+    "cta2": "Contact Us"
+  },
+  "marquee": {
+    "items": ["Premium Quality", "Fast Delivery", "Color Perfection", "Expert Team", "Creative Vision", "Modern Machinery"]
+  },
+  "services": {
+    "tag": "What We Do",
+    "heading_plain": "Our",
+    "heading_outline": "Premium",
+    "heading_gradient": "Services.",
+    "items": [
+      {
+        "title": "Digital Printing",
+        "desc": "High-resolution digital prints on any substrate — from vinyl and canvas to fine art paper. Perfect for marketing and display."
+      },
+      {
+        "title": "Large Format",
+        "desc": "Massive, eye-catching banners and signage that demand attention. Engineered for both indoor and outdoor use."
+      },
+      {
+        "title": "Design & Branding",
+        "desc": "Full creative suite from concept to final print. Our in-house designers craft visuals that leave a lasting impression."
+      }
+    ]
+  },
+  "portfolio": {
+    "tag": "Our Work",
+    "title": "Featured Projects",
+    "items": [
+      { "title": "Corporate Identity", "desc": "Premium Business Cards" },
+      { "title": "Marketing Materials", "desc": "Glossy Brochures" },
+      { "title": "Event Signage", "desc": "Large Format Banners" }
+    ]
+  },
+  "machinery": {
+    "tag": "Our Arsenal",
+    "heading_outline": "State-of-the-Art",
+    "heading_plain": "Machinery.",
+    "items": [
+      {
+        "title": "Industrial Large Format",
+        "desc": "Capable of printing massive banners with pinpoint color accuracy and weather-resistant inks, ensuring your message never fades.",
+        "tags": ["Banners", "Posters", "Signage"]
+      },
+      {
+        "title": "High-Speed Offset Press",
+        "desc": "Perfect for bulk printing of brochures and flyers, delivering consistent, gallery-quality results across thousands of copies.",
+        "tags": ["Bulk", "Brochures", "Flyers"]
+      }
+    ]
+  },
+  "about": {
+    "tag": "About Us",
+    "heading_plain": "Decades of",
+    "heading_gradient": "Excellence.",
+    "desc": "Located in the heart of Dhaka, our studio has been the trusted partner for hundreds of businesses. We combine technical expertise with creative vision to deliver print materials that leave a lasting, luxurious impression.",
+    "stats": [
+      { "num": "10+", "label": "Years Experience" },
+      { "num": "5k+", "label": "Projects Completed" }
+    ]
+  },
+  "team": {
+    "tag": "The People",
+    "heading_plain": "Creative",
+    "heading_outline": "Minds.",
+    "items": [
+      { "name": "Rafiqul Islam", "role": "Founder & CEO" },
+      { "name": "Tahsan Rahman", "role": "Lead Print Designer" }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "address": "123 Print Avenue, Motijheel, Dhaka 1000",
+    "phone": "+880 1711 223344",
+    "email": "hello@digitalstudio.com.bd",
+    "desc": "Ready to start your next premium print project? Contact us today.",
+    "cta_label": "Let's work together",
+    "cta_heading_plain": "Start a",
+    "cta_heading_gradient": "Project."
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "Digital Studio Dhaka. All rights reserved."
+  }
+}

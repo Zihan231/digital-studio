@@ -39,3 +39,27 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Editor directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# AI Agents
+AGENTS.md
+CLAUDE.md
+.cursor/
+.cursorrules
+.windsurf/
+.windsurfrules
+.cline/
+.gemini/
+.aider/
+.aider.*
+
+# Temporary/Unnecessary files
+test.html
+*.log
